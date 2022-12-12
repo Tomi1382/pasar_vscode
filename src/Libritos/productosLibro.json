@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Brandon Sanderson Elantris",
+    "precio": "$5600",
+    "imagen": "https://pictures.abebooks.com/isbn/9781473217706-es-300.jpg",
+    "genero": "Fantasia"
+  },
+  {
+    "titulo": "Harry Potter y el Caliz de Fuego",
+    "precio": "$7900",
+    "imagen": "https://static-2.ivoox.com/canales/9/7/2/3/6011513723279_XXL.jpg",
+    "genero": "Fantasia"
+  },
+  {
+    "titulo": "It (Eso)",
+    "precio": "$5500",
+    "imagen": "https://images.cdn2.buscalibre.com/fit-in/360x360/58/cc/58cce335a364ed961fd7edb0ab9a2c75.jpg",
+    "genero": "Terror"
+  },
+  {
+    "titulo": "Harry potter y el prisionero de Azkaban",
+    "precio": "$10400",
+    "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/c9/31/c931a6f8ff92b5abddb3e72a3ca3293f.jpg",
+    "genero": "Comedia"
+  },
+  {
+    "titulo": "Parque Jurasico de Michael Crichton",
+    "precio": "$4300",
+    "imagen": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/GRGV335PWFAUBCMQ4AWW2SLGDQ.jpg",
+    "genero": "Ciencia Ficcion"
+  },
+  {
+    "titulo": "El camino de los reyes",
+    "precio": "$4800",
+    "imagen": "https://www.penguinlibros.com/ar/1589311/el-camino-de-los-reyes-el-archivo-de-las-tormentas-1.jpg",
+    "genero": "Ciencia Ficcion"
+  }
+]
